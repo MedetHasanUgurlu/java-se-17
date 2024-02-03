@@ -1,0 +1,12 @@
+
+_
+java:S1854
+"=Remove this useless assignment to local variable "converter".(•ÃÌıùÿÿÿÿ8“ùÁøÖ1
+P
+java:S1481
+".Remove this unused "converter" local variable.(•ÃÌıùÿÿÿÿ8•ùÁøÖ1
+L	java:S106"+Replace this use of System.out by a logger.(›¸›ºøÿÿÿÿ8ßÖ¾øÖ1
+W
+java:S1128":Remove this unused import 'java.util.function.BiFunction'.(ô¿°×8˜ùÁøÖ1
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8˜ùÁøÖ1
