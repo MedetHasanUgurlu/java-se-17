@@ -1,5 +1,19 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-S
-#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+^
+.src/main/java/org/example/file/pack1/Main.java,f\d\fd17a2ed0a02e8e92dd27321dd64368c5a265a99
+7
+ads.txt,a\4\a4976e2f9698f9fcd056e18b0719644ae032dd1a
+e
+5src/main/java/org/example/chapter8/pack/Swimable.java,9\d\9ded298dde49cd4c80918c26a49132d70ceef36b
+`
+0src/main/java/org/example/chapter8/pack/Foo.java,3\f\3ffcf88b96a41d930efcec1a23f71fde9ca2f6a6
+a
+1src/main/java/org/example/chapter8/pack/Main.java,9\f\9f2684fad331908ac0767aed39f144a6cb6d4809
+c
+3src/main/java/org/example/chapter8/pack/Animal.java,2\b\2b22e90dfc22a6ac62127311f29208686523f80e
+f
+6src/main/java/org/example/chapter8/pack/Swimmable.java,1\6\162726ac155e4011969d80941c3e960a06440100
+j
+:src/main/java/org/example/chapter8/pack/CheckIfHopper.java,e\4\e444a0f8cd963d20a2271269402b2067c2385352
