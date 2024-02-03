@@ -1,0 +1,12 @@
+
+q
+java:S1450"TRemove the "color" field and declare it as a local variable in the relevant methods.(È„…¦8é®ıÖ1
+^
+java:S1854"<Remove this useless assignment to local variable "consumer".(‡®ƒìúÿÿÿÿ8é®ıÖ1
+M
+java:S1172"+Remove this unused method parameter "name".(„ºüéüÿÿÿÿ8é®ıÖ1
+L	java:S106"+Replace this use of System.out by a logger.(‡®ƒìúÿÿÿÿ8é®ıÖ1
+O
+java:S1481"-Remove this unused "consumer" local variable.(‡®ƒìúÿÿÿÿ8é®ıÖ1
+F
+java:S1068")Remove this unused "color" private field.(È„…¦8é®ıÖ1
