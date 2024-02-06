@@ -3,6 +3,7 @@ package org.example.file.pack1;
 import java.io.*;
 import java.nio.charset.Charset;
 import java.nio.file.*;
+import java.util.Comparator;
 import java.util.List;
 
 public class Test {
@@ -10,6 +11,7 @@ public class Test {
         Path path = Paths.get("data.txt");
         FileInputStream inputStream = new FileInputStream(path.toFile());
         System.out.println(inputStream.readAllBytes().length);
+
     }
 
     private static void copyTextFile2() {
