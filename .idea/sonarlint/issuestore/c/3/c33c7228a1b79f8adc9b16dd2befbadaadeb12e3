@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ı×æ•Û1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8ø“ë•Û1
+“
+java:S1130"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú78™ì•Û1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8‰Øæ•Û1
+L	java:S106"+Replace this use of System.out by a logger.(Õªûÿÿÿÿÿ8¢™ì•Û1
+L	java:S106"+Replace this use of System.out by a logger.(óê†„øÿÿÿÿ8İ¾ï•Û1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ƒ”ë•Û1
+G	java:S106!"+Replace this use of System.out by a logger.(íˆ¾Ÿ8Ş¾ï•Û1

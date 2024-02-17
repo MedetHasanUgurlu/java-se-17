@@ -59,3 +59,17 @@ e
 5src/main/java/org/example/chapter8/pack3/Meerkat.java,d\f\dfa0419921b76f9cd1a586299c57ef4ae450b9d1
 \
 ,src/main/java/org/example/jdbc/JdbcTest.java,0\1\01450d5ebca1f81a3dd16188eca8ee61ce5f1857
+^
+.src/main/java/org/example/concurrence/Zop.java,c\3\c33c7228a1b79f8adc9b16dd2befbadaadeb12e3
+^
+.src/main/java/org/example/concurrence/Kop.java,6\d\6d5ca077db97005e367a94923c45de0d1769d36b
+_
+/src/main/java/org/example/concurrence/Main.java,8\6\8686dfe0a691db47f8019f2fce1a3d12c92b3f39
+a
+1src/main/java/org/example/concurrence/Laptop.java,6\f\6f2f89422baff16e8b4ccaba9693a34fe322fb42
+^
+.src/main/java/org/example/concurrence/Zoo.java,7\b\7b0d1cd71c694a2d957d97e0136201283934a539
+^
+.src/main/java/org/example/concurrence/Foo.java,5\f\5f443197789404a4460bf354f5fce92c6c931eab
+h
+8src/main/java/org/example/concurrence/ThreadService.java,c\3\c3348fc3ef9bbfed9a87df3c84267000a93cc4e6
