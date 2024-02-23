@@ -1,0 +1,17 @@
+
+s
+java:S2095"VUse try-with-resources or close this "ScheduledExecutorService" in a "finally" clause.(¤ú¯†8–„åµÛ1
+i
+java:S1854"LRemove this useless assignment to local variable "scheduledExecutorService".(¤ú¯†8˜„åµÛ1
+_
+java:S1854
+"=Remove this useless assignment to local variable "runnable2".(ÝÛÉƒÿÿÿÿÿ8ÑƒäµÛ1
+L	java:S106
+"+Replace this use of System.out by a logger.(ÝÛÉƒÿÿÿÿÿ8™„åµÛ1
+P
+java:S1481	".Remove this unused "runnable2" local variable.(å‚Ó­øÿÿÿÿ8ÒƒäµÛ1
+Z
+java:S1481"=Remove this unused "scheduledExecutorService" local variable.(¤ú¯†8™„åµÛ1
+X	java:S125"<This block of commented-out lines of code should be removed.(‹³åŒ8š„åµÛ1
+W
+java:S1128":Remove this unused import 'java.util.concurrent.TimeUnit'.(Æ™þ8š„åµÛ1

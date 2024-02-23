@@ -1,0 +1,13 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8í“æ´Û1
+t
+java:S3008"RRename this field "COUNTER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¥³­øÿÿÿÿ8ô“æ´Û1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ö“æ´Û1
+o
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(¥Ôø58÷“æ´Û1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8÷“æ´Û1
+G	java:S106"+Replace this use of System.out by a logger.(÷”€„8ø“æ´Û1
+G	java:S106"+Replace this use of System.out by a logger.(í¦¨8ø“æ´Û1
+L	java:S106"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ø“æ´Û1

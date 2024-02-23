@@ -1,0 +1,12 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Î Ó¸Û1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8³×¸Û1
+W
+java:S2222";Unlock this lock along all executions paths of this method.(¤­k8Ó Ó¸Û1
+X
+java:S2222";Unlock this lock along all executions paths of this method.(ËÜ®8ò”Ö¸Û1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8—³×¸Û1
+F	java:S106"+Replace this use of System.out by a logger.(ûœ‰8× Ó¸Û1
+L	java:S106"+Replace this use of System.out by a logger.(Ù¿éûÿÿÿÿ8× Ó¸Û1
+L	java:S106 "+Replace this use of System.out by a logger.(µ†ğùÿÿÿÿ8€¿Ô¸Û1

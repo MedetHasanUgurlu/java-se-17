@@ -1,0 +1,12 @@
+
+j
+java:S2095"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(†Å „8¨¸ı·Û1
+y
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(»ÆòÛúÿÿÿÿ8ª¸ı·Û1
+L	java:S106"+Replace this use of System.out by a logger.(©şêÜúÿÿÿÿ8­¸ı·Û1
+F	java:S106"+Replace this use of System.err by a logger.(ì‹¯N8­¸ı·Û1
+L	java:S106'"+Replace this use of System.out by a logger.(½ªÛùÿÿÿÿ8®¸ı·Û1
+h
+java:S1128	"FRemove this unused import 'java.util.concurrent.atomic.AtomicInteger'.(¿êäœøÿÿÿÿ8®¸ı·Û1
+N
+java:S1068",Remove this unused "hashMaps" private field.(»ÆòÛúÿÿÿÿ8®¸ı·Û1
