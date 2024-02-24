@@ -93,3 +93,9 @@ g
 0src/main/java/org/example/concurrence/Test7.java,5\7\57dbf5705e529b9afb18a8d802dc08fce9d1d3f6
 S
 #src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+X
+(src/main/java/org/example/test/Main.java,8\b\8b056ef8c286a15a6639eadb5d482d3c88847cd9
+Y
+)src/main/java/org/example/test/Main2.java,7\1\71a1dfa5104f6b78698be834db4e1e22e2a9221f
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
