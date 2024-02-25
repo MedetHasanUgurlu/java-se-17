@@ -1,24 +1,19 @@
 package org.example;
 
+import java.util.Objects;
+
 public class Main {
-    public static void main(String[] args) {
-        var a = 3; //Line n1
-        var b = 5; //Line n2
-        var c = 7; //Line n3
-        var d = 9; //Line n4
-        boolean res = --a + --b < 1 && c++ + d++ > 1;
-        System.out.printf("a = %d, b = %d, c = %d, d = %d, res = %b", a, b, c, d, res);
+    public static void main(String [] args) {
+        String fName = "James";
+        String lName = "Gosling";
+        String name1 = fName + lName;
+        String name2 = fName + "Gosling";
+        String name3 = "James" + "Gosling";
 
+        System.out.println(name1 == name2);
+        System.out.println(name2 == name3);
 
-
-
+        Objects.eq
     }
 
-
-}
-class A{
-    @Override
-    public String toString() {
-        return null;
-    }
 }

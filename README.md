@@ -1,5 +1,10 @@
 # Notes
-``` java
+
+<div align="center">
+<img src="img.png">
+</div> 
+
+``` java    
 public class Test {
     public static void main(String [] args) {
         byte var = 127;
@@ -82,3 +87,23 @@ false && [{(c++) + (d++)} > 1]; \
 
 
 Output of the given program is: a = 2, b = 4, c = 7, d = 9, res = false
+
+
+``` java
+public class Main {
+    public static void main(String [] args) {
+        String text = null;
+        text = text + new A(); //Line n1
+        System.out.println(text.length()); //Line n2
+    }
+
+
+}
+class A {
+    public String toString() {
+        return null;
+    }
+}
+```
+
+> 8
