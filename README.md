@@ -33,7 +33,7 @@ var += 2: Compiler converts it to var = (byte) (var + 2) and hence it compiles s
 
 var: No issues at all, it also compiles successfully.
 
-
+***
 
 ``` java
 public class Test {
@@ -88,6 +88,7 @@ false && [{(c++) + (d++)} > 1]; \
 
 Output of the given program is: a = 2, b = 4, c = 7, d = 9, res = false
 
+***
 
 ``` java
 public class Main {
