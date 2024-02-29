@@ -33,6 +33,8 @@ var += 2: Compiler converts it to var = (byte) (var + 2) and hence it compiles s
 
 var: No issues at all, it also compiles successfully.
 
+
+
 ***
 
 ``` java
