@@ -1,0 +1,20 @@
+
+V
+java:S1854":Remove this useless assignment to local variable "stream".(Ë”è>8˜Ìúãâ1
+G
+java:S1481"+Remove this unused "stream" local variable.(Ë”è>8šÌúãâ1
+C
+java:S3864"!Remove this use of "Stream.peek".(ÿ½ûûÿÿÿÿ8›Ìúãâ1
+L	java:S106"+Replace this use of System.out by a logger.(ÿ½ûûÿÿÿÿ8œÌúãâ1
+L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8œÌúãâ1
+L	java:S106"+Replace this use of System.out by a logger.(”¨ËÑùÿÿÿÿ8 Ìúãâ1
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 Ìúãâ1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¡Ìúãâ1
+L
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8¡Ìúãâ1
+J
+java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB8¡Ìúãâ1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¡Ìúãâ1

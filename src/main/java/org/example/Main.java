@@ -1,19 +1,23 @@
 package org.example;
 
+import java.util.ArrayList;
 import java.util.Objects;
 
 public class Main {
     public static void main(String [] args) {
-        String fName = "James";
-        String lName = "Gosling";
-        String name1 = fName + lName;
-        String name2 = fName + "Gosling";
-        String name3 = "James" + "Gosling";
+        final var integers = new ArrayList<Integer>();
+        integers.add(1);
+        integers.add(2);
+        integers.add(3);
+        integers.add(4);
+        integers.add(5);
 
-        System.out.println(name1 == name2);
-        System.out.println(name2 == name3);
 
-        Objects.eq
+        integers.forEach(System.out::println);
+        integers.add(0,7);
+        System.out.println();
+        integers.forEach(System.out::println);
+
     }
 
 }
