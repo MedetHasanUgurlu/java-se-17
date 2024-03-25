@@ -1,20 +1,22 @@
 
-V
-java:S1854":Remove this useless assignment to local variable "stream".(Ë”è>8˜Ìúãâ1
-G
-java:S1481"+Remove this unused "stream" local variable.(Ë”è>8šÌúãâ1
-C
-java:S3864"!Remove this use of "Stream.peek".(ÿ½ûŽûÿÿÿÿ8›Ìúãâ1
-L	java:S106"+Replace this use of System.out by a logger.(ÿ½ûŽûÿÿÿÿ8œÌúãâ1
-L	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8œÌúãâ1
-L	java:S106"+Replace this use of System.out by a logger.(”¨ËÑùÿÿÿÿ8 Ìúãâ1
-M
-java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8 Ìúãâ1
-O
-java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8¡Ìúãâ1
-L
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤þÿÿÿÿ8¡Ìúãâ1
-J
-java:S1128".Remove this unused import 'java.util.TreeSet'.(½îB8¡Ìúãâ1
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8¡Ìúãâ1
+x
+java:S1854"5Remove this useless assignment to local variable "x".(ÑÒûÌ8Í®ü€æ1J$06d30cc5-18d6-42ae-93a7-a4dba2bb0d02
+x
+java:S1854"5Remove this useless assignment to local variable "b".(‰½È€8Î®ü€æ1J$45e0185b-542b-4102-adff-c4dbea0097ed
+|
+java:S1854":Remove this useless assignment to local variable "stream".(Ë”è>8Î®ü€æ1J$fa3aa028-0e77-45f3-a017-f014599cc18d
+m
+java:S1481"+Remove this unused "stream" local variable.(Ë”è>8Ï®ü€æ1J$f1e9c314-ae98-48e3-8044-4b9156754feb
+i
+java:S3864
+"!Remove this use of "Stream.peek".(ÿ½ûŽûÿÿÿÿ8Ñ®ü€æ1J$c6ffa478-c631-4f74-8990-66eb8a7d45e8
+r	java:S106
+"+Replace this use of System.out by a logger.(ÿ½ûŽûÿÿÿÿ8Ñ®ü€æ1J$3a901558-517b-40cc-b555-b2f9818138f8
+r	java:S106"+Replace this use of System.out by a logger.(š—“¿ÿÿÿÿÿ8Ò®ü€æ1J$8de39aa4-7a97-44aa-a95f-e04d9bb8ebfd
+r	java:S106"+Replace this use of System.out by a logger.(”¨ËÑùÿÿÿÿ8Ò®ü€æ1J$0b9cc4b5-5221-4b4c-a668-5f134a927eda
+n
+java:S1905"&Remove this unnecessary cast to "int".(‹ü Ûþÿÿÿÿ8Ó®ü€æ1J$0ba95630-b41c-4b2f-9569-98a0ae9fac0a
+i
+java:S1481"&Remove this unused "b" local variable.(‰½È€8Ó®ü€æ1J$c99e4efc-3dd0-40bf-b81f-f8e5ea7016cb
+i
+java:S1481"&Remove this unused "x" local variable.(ÑÒûÌ8Ó®ü€æ1J$5553176d-32d8-44f0-bb0e-21ad79212096
